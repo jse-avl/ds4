@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48976F11-75F1-4A36-A20E-7350AC140E3F}|Laboratorio 3\\Laboratorio 3.csproj|c:\\users\\josei\\source\\repos\\ds4\\laboratorio 3\\laboratorio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48976F11-75F1-4A36-A20E-7350AC140E3F}|Laboratorio 3\\Laboratorio 3.csproj|solutionrelative:laboratorio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 3\\Laboratorio 3\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 3\\Program.cs",
+              "ToolTip": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 3\\Laboratorio 3\\Program.cs",
+              "RelativeToolTip": "Laboratorio 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T23:36:46.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
