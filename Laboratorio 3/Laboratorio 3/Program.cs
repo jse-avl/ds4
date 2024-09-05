@@ -1,23 +1,29 @@
-﻿using System.Diagnostics.CodeAnalysis;
-
-internal class Program
-{
-    private static void Main(string[] args)
+﻿using System;
+    public class CalculosMatematicos
     {
-        int primerNumero, segundoNumero, suma, multiplicacion, resta;
+        public int Calcular(int primerNumero, int segundoNumero)
+        {
+            int suma = primerNumero + segundoNumero;
+            int resta = primerNumero - segundoNumero;
+            int multiplicacion = suma * resta;
 
-        Console.Write("Introduce el primer numero:");
-        primerNumero = Convert.ToInt32(Console.ReadLine());
-
-        Console.Write("Introduce el segundo numero:");
-        segundoNumero = Convert.ToInt32(Console.ReadLine());
-
-        suma = primerNumero + segundoNumero;
-
-        resta = primerNumero - segundoNumero;
-
-        multiplicacion = suma * resta;
-
-        Console.WriteLine("La multiplicacion de {0} y {1} es {2}",suma, resta, multiplicacion);
+            return multiplicacion;
+        }
     }
-}
+
+    internal class Program
+    {
+        private static void Main(string[] args)
+        {
+            Console.Write("Introduce el primer número: ");
+            int primerNumero = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Introduce el segundo número: ");
+            int segundoNumero = Convert.ToInt32(Console.ReadLine());
+
+            CalculosMatematicos calculadora = new CalculosMatematicos();
+            int resultado = calculadora.Calcular(primerNumero, segundoNumero);
+
+            Console.WriteLine($"La multiplicación es {resultado}");
+        }
+    }

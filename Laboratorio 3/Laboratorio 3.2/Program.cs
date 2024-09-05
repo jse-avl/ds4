@@ -1,18 +1,25 @@
-﻿internal class Program
+﻿using System;
+
+public class CalculosMatematicos
+{
+    public double CalcularArea(double radio)
+    {
+        return Math.PI * Math.Pow(radio, 2);
+    }
+}
+
+internal class Program
 {
     private static void Main(string[] args)
     {
-        double calculoArea, radio, p, multiplicacionP, pi;
+        double radio;
 
-        pi = 3.1416;
+        Console.Write("Introduce el radio del círculo: ");
+        radio = Convert.ToDouble(Console.ReadLine());
 
-        Console.Write("Introduce el perímetro: ");
-        p = Convert.ToDouble(Console.ReadLine());
+        CalculosMatematicos calculadora = new CalculosMatematicos();
+        double area = calculadora.CalcularArea(radio);
 
-        multiplicacionP = p * p;
-
-        calculoArea = pi * multiplicacionP;
-
-        Console.WriteLine("El área del círculo es de {0}", calculoArea);
+        Console.WriteLine($"El área del círculo es {area}");
     }
 }
