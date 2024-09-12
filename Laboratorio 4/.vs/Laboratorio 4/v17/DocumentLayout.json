@@ -27,8 +27,8 @@
       "RelativeMoniker": "D:0:0:{77C5567B-DC8C-4CBF-983A-5F0860A44284}|Laboratorio 4-2\\Laboratorio 4-2.csproj|solutionrelative:laboratorio 4-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B41300E-3C02-41DC-8DE9-4C4E82D2AFEA}|Laboratorio 4\\Laboratorio 4.csproj|c:\\users\\josei\\source\\repos\\ds4\\laboratorio 4\\laboratorio 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B41300E-3C02-41DC-8DE9-4C4E82D2AFEA}|Laboratorio 4\\Laboratorio 4.csproj|solutionrelative:laboratorio 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B41300E-3C02-41DC-8DE9-4C4E82D2AFEA}|Laboratorio 4\\Laboratorio 4-1.csproj|c:\\users\\josei\\source\\repos\\ds4\\laboratorio 4\\laboratorio 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B41300E-3C02-41DC-8DE9-4C4E82D2AFEA}|Laboratorio 4\\Laboratorio 4-1.csproj|solutionrelative:laboratorio 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,7 +52,7 @@
               "RelativeDocumentMoniker": "Laboratorio 4-7\\Program.cs",
               "ToolTip": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 4\\Laboratorio 4-7\\Program.cs",
               "RelativeToolTip": "Laboratorio 4-7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T00:11:04.951Z",
               "EditorCaption": ""
@@ -63,8 +67,7 @@
               "RelativeToolTip": "Laboratorio 4-6\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T00:07:26.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T00:07:26.124Z"
             },
             {
               "$type": "Document",
@@ -76,8 +79,7 @@
               "RelativeToolTip": "Laboratorio 4-5\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T00:03:23.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T00:03:23.096Z"
             },
             {
               "$type": "Document",
@@ -89,8 +91,7 @@
               "RelativeToolTip": "Laboratorio 4-4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:57:29.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T23:57:29.125Z"
             },
             {
               "$type": "Document",
@@ -102,8 +103,7 @@
               "RelativeToolTip": "Laboratorio 4-3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:50:06.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T23:50:06.247Z"
             },
             {
               "$type": "Document",
@@ -115,12 +115,7 @@
               "RelativeToolTip": "Laboratorio 4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:36:58.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "WhenOpened": "2024-09-10T23:36:58.333Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Laboratorio 4-2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:45:00.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T23:45:00.988Z"
             }
           ]
         }
