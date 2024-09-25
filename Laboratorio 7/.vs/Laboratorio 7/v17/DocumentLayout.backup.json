@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D92BFCF5-FCBE-4797-BF51-E4F867A7F931}|Laboratorio 7-2\\Laboratorio 7-2.csproj|c:\\users\\josei\\source\\repos\\ds4\\laboratorio 7\\laboratorio 7-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92BFCF5-FCBE-4797-BF51-E4F867A7F931}|Laboratorio 7-2\\Laboratorio 7-2.csproj|solutionrelative:laboratorio 7-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92BFCF5-FCBE-4797-BF51-E4F867A7F931}|Laboratorio 7-2\\Laboratorio 7-2.csproj|c:\\users\\josei\\source\\repos\\ds4\\laboratorio 7\\laboratorio 7-2\\juegodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92BFCF5-FCBE-4797-BF51-E4F867A7F931}|Laboratorio 7-2\\Laboratorio 7-2.csproj|solutionrelative:laboratorio 7-2\\juegodedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92BFCF5-FCBE-4797-BF51-E4F867A7F931}|Laboratorio 7-2\\Laboratorio 7-2.csproj|c:\\users\\josei\\source\\repos\\ds4\\laboratorio 7\\laboratorio 7-2\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92BFCF5-FCBE-4797-BF51-E4F867A7F931}|Laboratorio 7-2\\Laboratorio 7-2.csproj|solutionrelative:laboratorio 7-2\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dado.cs",
+              "DocumentMoniker": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 7\\Laboratorio 7-2\\Dado.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7-2\\Dado.cs",
+              "ToolTip": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 7\\Laboratorio 7-2\\Dado.cs",
+              "RelativeToolTip": "Laboratorio 7-2\\Dado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:16:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JuegoDeDados.cs",
+              "DocumentMoniker": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 7\\Laboratorio 7-2\\JuegoDeDados.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7-2\\JuegoDeDados.cs",
+              "ToolTip": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 7\\Laboratorio 7-2\\JuegoDeDados.cs",
+              "RelativeToolTip": "Laboratorio 7-2\\JuegoDeDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:16:34.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 7\\Laboratorio 7-2\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 7-2\\Program.cs",
+              "ToolTip": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 7\\Laboratorio 7-2\\Program.cs",
+              "RelativeToolTip": "Laboratorio 7-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:15:33.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
