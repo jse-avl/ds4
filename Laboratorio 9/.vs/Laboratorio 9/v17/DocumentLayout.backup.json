@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6051D9D-DDF3-4107-8B4A-56642235A2D6}|Laboratorio 9-5\\Laboratorio 9-5.csproj|c:\\users\\josei\\source\\repos\\ds4\\laboratorio 9\\laboratorio 9-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6051D9D-DDF3-4107-8B4A-56642235A2D6}|Laboratorio 9-5\\Laboratorio 9-5.csproj|solutionrelative:laboratorio 9-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC5B626-8A44-469B-BCF8-C205640C1DA3}|Laboratorio 9-4\\Laboratorio 9-4.csproj|c:\\users\\josei\\source\\repos\\ds4\\laboratorio 9\\laboratorio 9-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC5B626-8A44-469B-BCF8-C205640C1DA3}|Laboratorio 9-4\\Laboratorio 9-4.csproj|solutionrelative:laboratorio 9-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA0118E-CCEB-41D7-A6D2-A52E940120D1}|Laboratorio 9-3\\Laboratorio 9-3.csproj|c:\\users\\josei\\source\\repos\\ds4\\laboratorio 9\\laboratorio 9-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA0118E-CCEB-41D7-A6D2-A52E940120D1}|Laboratorio 9-3\\Laboratorio 9-3.csproj|solutionrelative:laboratorio 9-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4BF9AC-6EE8-41F9-A098-54A2BC5035C0}|Laboratorio 9-2\\Laboratorio 9-2.csproj|c:\\users\\josei\\source\\repos\\ds4\\laboratorio 9\\laboratorio 9-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4BF9AC-6EE8-41F9-A098-54A2BC5035C0}|Laboratorio 9-2\\Laboratorio 9-2.csproj|solutionrelative:laboratorio 9-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17988CF-42EE-40CD-9B8C-DE7713451B04}|Laboratorio 9\\Laboratorio 9.csproj|c:\\users\\josei\\source\\repos\\ds4\\laboratorio 9\\laboratorio 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17988CF-42EE-40CD-9B8C-DE7713451B04}|Laboratorio 9\\Laboratorio 9.csproj|solutionrelative:laboratorio 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 9\\Laboratorio 9-5\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 9-5\\Program.cs",
+              "ToolTip": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 9\\Laboratorio 9-5\\Program.cs",
+              "RelativeToolTip": "Laboratorio 9-5\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:48:19.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 9\\Laboratorio 9-4\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 9-4\\Program.cs",
+              "ToolTip": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 9\\Laboratorio 9-4\\Program.cs",
+              "RelativeToolTip": "Laboratorio 9-4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:47:39.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 9\\Laboratorio 9-3\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 9-3\\Program.cs",
+              "ToolTip": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 9\\Laboratorio 9-3\\Program.cs",
+              "RelativeToolTip": "Laboratorio 9-3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:46:58.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 9\\Laboratorio 9-2\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 9-2\\Program.cs",
+              "ToolTip": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 9\\Laboratorio 9-2\\Program.cs",
+              "RelativeToolTip": "Laboratorio 9-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:46:18.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 9\\Laboratorio 9\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio 9\\Program.cs",
+              "ToolTip": "C:\\Users\\josei\\source\\repos\\ds4\\Laboratorio 9\\Laboratorio 9\\Program.cs",
+              "RelativeToolTip": "Laboratorio 9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T00:44:43.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
