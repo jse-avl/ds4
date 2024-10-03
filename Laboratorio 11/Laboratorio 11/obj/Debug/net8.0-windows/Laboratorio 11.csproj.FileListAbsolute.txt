@@ -1,0 +1,17 @@
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\bin\Debug\net8.0-windows\Laboratorio 11.exe
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\bin\Debug\net8.0-windows\Laboratorio 11.deps.json
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\bin\Debug\net8.0-windows\Laboratorio 11.runtimeconfig.json
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\bin\Debug\net8.0-windows\Laboratorio 11.dll
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\bin\Debug\net8.0-windows\Laboratorio 11.pdb
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\Laboratorio_11.Form1.resources
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\Laboratorio 11.csproj.GenerateResource.cache
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\Laboratorio 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\Laboratorio 11.AssemblyInfoInputs.cache
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\Laboratorio 11.AssemblyInfo.cs
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\Laboratorio 11.csproj.CoreCompileInputs.cache
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\Laboratorio 11.sourcelink.json
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\Laboratorio 11.dll
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\refint\Laboratorio 11.dll
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\Laboratorio 11.pdb
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\Laboratorio 11.genruntimeconfig.cache
+C:\Users\josei\source\repos\ds4\Laboratorio 11\Laboratorio 11\obj\Debug\net8.0-windows\ref\Laboratorio 11.dll
